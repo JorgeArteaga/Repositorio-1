@@ -1,0 +1,26 @@
+body {
+	background: lavender;
+}
+
+h1 {
+	background: red;
+	color: white;
+	font-size: 30px;
+}
+h2 {
+	font-size: 60px;
+}
+
+
+
+.mayuscula {
+	text-transform: uppercase;
+}
+
+.big.mayuscula {
+	color: blue;
+}
+
+h2 span {
+	background: lavender;
+}
